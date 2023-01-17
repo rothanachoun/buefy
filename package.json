@@ -63,7 +63,7 @@
     "bulma": "0.9.4"
   },
   "peerDependencies": {
-    "vue": "^2.6.11"
+    "vue": "^3.2.45"
   },
   "devDependencies": {
     "@applitools/eyes-cypress": "3.7.5",
